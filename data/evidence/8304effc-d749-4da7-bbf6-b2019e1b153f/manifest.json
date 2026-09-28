@@ -1,0 +1,30 @@
+{
+  "dataset_id": "8304effc-d749-4da7-bbf6-b2019e1b153f",
+  "updated_at": "2026-09-04T22:00:15.646882+00:00",
+  "artifacts": [
+    {
+      "artifact_id": "rep_pdf_8304effc_20260904_220015",
+      "dataset_id": "8304effc-d749-4da7-bbf6-b2019e1b153f",
+      "filename": "forensic_report_8304effc_20260904_220015.pdf",
+      "artifact_type": "forensic_report_pdf",
+      "created_at": "2026-09-04T22:00:15.579920+00:00",
+      "file_size_bytes": 7257,
+      "sha256_hash": "850665a7f63f221e471f446bf1d4a59a653eeb9ed2f1bab4a26ca512f0b1d13b",
+      "case_reference": "CASE-SIH-2026-BTC",
+      "investigator_name": "Lead Forensics Investigator",
+      "description": "Forensic Investigation PDF Report (7.1 KB, SHA-256: 850665a7f63f...)"
+    },
+    {
+      "artifact_id": "ev_pkg_8304effc_20260904_220011",
+      "dataset_id": "8304effc-d749-4da7-bbf6-b2019e1b153f",
+      "filename": "evidence_8304effc_20260904_220011.json",
+      "artifact_type": "evidence_package",
+      "created_at": "2026-09-04T22:00:11.403963+00:00",
+      "file_size_bytes": 533525,
+      "sha256_hash": "54e32bbb4710c60da371dd7116ebd6afa9ac4198509b8a24b958a75d18f017aa",
+      "case_reference": "CASE-SIH-2026-BTC",
+      "investigator_name": "Lead Forensics Investigator",
+      "description": "Dataset Evidence Package (521.0 KB, SHA-256: 54e32bbb4710...)"
+    }
+  ]
+}

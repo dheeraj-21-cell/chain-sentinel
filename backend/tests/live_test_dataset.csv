@@ -1,0 +1,4 @@
+timestamp,src_ip,dst_ip,src_port,dst_port,txid,input_addresses,input_amounts,output_addresses,output_amounts,fee,script_type,geo_country,asn
+2026-09-04T12:00:00Z,192.168.1.50,10.0.0.5,8333,8333,tx_alpha_001,1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa;12c6DSiU4Rq3P4ZxziKxzrL5LmMBrzjrJX,1.5;2.0,1HLoD9E4SDFFPDiYfNYnkBLQmm5505MDS,3.499,0.001,p2pkh,US,AS15169
+2026-09-04T12:05:00Z,,,,,,1dice8EMZmqKvrGE4Qc9bUFf9PX3xaYDp,0.05,1dice1e6pdabrAssYWKWGaAehkk64EYk,0.049,0.001,p2sh,,
+2026-09-04T12:10:00Z,192.168.1.99,10.0.0.99,99999,8333,tx_corrupt_port,bc1qcrpt1,1.0,bc1qcrpt2,0.99,0.01,p2wpkh,CH,AS13335

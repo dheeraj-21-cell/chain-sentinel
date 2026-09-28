@@ -1,0 +1,30 @@
+{
+  "dataset_id": "87c747ba-76c6-4428-b6c7-6d3001670788",
+  "updated_at": "2026-09-05T00:12:36.561092+00:00",
+  "artifacts": [
+    {
+      "artifact_id": "rep_pdf_87c747ba_20260905_001236",
+      "dataset_id": "87c747ba-76c6-4428-b6c7-6d3001670788",
+      "filename": "forensic_report_87c747ba_20260905_001236.pdf",
+      "artifact_type": "forensic_report_pdf",
+      "created_at": "2026-09-05T00:12:36.497985+00:00",
+      "file_size_bytes": 7172,
+      "sha256_hash": "30ba9cf73fee1d0d2aba5f9e5ef0d424ef1c6b92a38484172db3a4024e8033df",
+      "case_reference": null,
+      "investigator_name": null,
+      "description": "Forensic Investigation PDF Report (7.0 KB, SHA-256: 30ba9cf73fee...)"
+    },
+    {
+      "artifact_id": "ev_pkg_87c747ba_20260905_001225",
+      "dataset_id": "87c747ba-76c6-4428-b6c7-6d3001670788",
+      "filename": "evidence_87c747ba_20260905_001225.json",
+      "artifact_type": "evidence_package",
+      "created_at": "2026-09-05T00:12:25.598826+00:00",
+      "file_size_bytes": 201934,
+      "sha256_hash": "055107d7f767841fe1e475d0f4e8e6027430f34e619f0ae35106274f1e4beadf",
+      "case_reference": null,
+      "investigator_name": null,
+      "description": "Dataset Evidence Package (197.2 KB, SHA-256: 055107d7f767...)"
+    }
+  ]
+}
